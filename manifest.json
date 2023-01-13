@@ -1,0 +1,15 @@
+{
+  "short_name": "Movies Browser",
+  "name": "React Movies Browser",
+  "icons": [
+    {
+      "src": "pageIcon.png",
+      "type": "image/png",
+      "sizes": "840x859"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
